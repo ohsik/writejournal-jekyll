@@ -1,4 +1,8 @@
 # --- General options --- #
+# If you are building a GitHub project page then use these settings:
+url: "https://writejournal.com"
+baseurl: "/"
+  
 
 # Name of website
 title: Write Journal
