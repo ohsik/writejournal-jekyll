@@ -23,3 +23,5 @@ and many more...
 
 ### Writing is not my thing?
 Don't worry. We understand that writing is not for everyone and will have tips and info for things that you can get the same benefits from keeping journals.
+
+<small><i>WriteJournal.com is sponsored by <a href="https://www.goodnightjournal.com" target="_blank">Goodnight Journal</a></i><small>
