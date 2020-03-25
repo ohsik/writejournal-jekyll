@@ -2,7 +2,7 @@
 layout: post
 title: Staying healthy in the coronavirus quarantine
 subtitle: Health Benefits of Journaling
-tags: [writing, journal, diary]
+tags: [writing, journal, diary, coronavirus, quarantine, covid-19, mental health]
 comments: true
 ---
 
