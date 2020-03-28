@@ -6,6 +6,9 @@ tags: [writing, journal, diary, coronavirus, quarantine, covid-19, mental health
 comments: true
 ---
 
+![Emptied out New York City due to Coronavirus](/img/post/coronavirus-new-york-city-empty.png)
+<small>Photograph: <i>Emptied out New York City due to Coronavirus</i></small>
+
 Writing your ideas on a piece of paper has been proven to clarify the ability to think which is why children, from a very young age, are advised to brainstorm before an important assignment. Keeping a journal is similar to this notion, however, it involves writing down feelings, life experiences and thoughts along with the ideas. 
 The coronavirus quarantine provides a perfect opportunity for you to pick up a valuable habit like journaling. It can prove to be more beneficial for extroverted people to start journaling in this period as this change in their lifestyle can prove to be tough and mentally straining. 
 
@@ -26,4 +29,4 @@ By writing routinely people tend to focus on the positive experiences more. When
 The change in routine and lack of socialization may adversely affect the mental health of people and in times of such panic, it is better to stay grounded by writing about the small details in your life. It is also better to be busy with a hobby rather than fall towards unhealthy lifestyles, like irregular sleeping patterns. Journaling seems to be a very positive and valuable hobby in times where your other healthy hobbies like running, exercising and socializing may be limited.   
 
 {: .box-note}
-**Write private journals for free on Goodnight Journal!** Also, get a Limited time offer - <i>50% off on membership!</i> <a href="https://www.goodnightjournal.com">Write a Journal Now.</a>
+**Write private journals for free on Goodnight Journal.** <br />Also, get a Limited time offer - <i>50% off(coupon code Le6v78wF) on membership.</i> <br /><a href="https://www.goodnightjournal.com">Write a Journal Now!</a>

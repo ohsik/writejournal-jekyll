@@ -2,7 +2,7 @@
 layout: post
 title: How to Keep a Journal
 subtitle: How to Keep a Journal and Stick to It. Keeping a journal or diary is a great way to express your emotions.
-tags: [writing, journal, diary, coronavirus, quarantine, covid-19, mental health]
+tags: [writing, journal, diary, mental health, well-being, meditation]
 comments: true
 ---
 
@@ -26,4 +26,4 @@ Keeping a journal brings order to your life and if you’re having difficulties 
 
 
 {: .box-note}
-**Write private journals for free on Goodnight Journal!** Also, get a Limited time offer - <i>50% off on membership!</i> <a href="https://www.goodnightjournal.com">Write a Journal Now.</a>
+**Write unlimited private journals for free on Goodnight Journal.** <br />Also, get a Limited time offer - <i>50% off(coupon code Le6v78wF) on membership.</i> <br /><a href="https://www.goodnightjournal.com">Write a Journal Now!</a>
