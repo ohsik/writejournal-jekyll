@@ -794,3 +794,17 @@ pre {
   font-style: italic;
   font-size: 16px;
 }
+
+.footer-links{
+  margin: 16px 0;
+  padding: 0;
+  text-align: center;
+}
+.footer-links li{
+  list-style: none;
+  display: inline-block;
+  margin: 4px;
+}
+.footer-links li a{
+  font-size: 14px;
+}
