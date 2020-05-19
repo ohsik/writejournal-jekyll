@@ -36,7 +36,7 @@ comments: true
 <p>Install the online journal app and prepare yourself to write something most interesting. The start of your journal must be interesting and energetic. It will help you to get a gratitude online journal.</p>
 
 <h3>How much it is helpful in my personal life?</h3>
-<p>If you are travelling somewhere or walking on the footpath, you see an interesting or an unusual scene, you can turn on your smart phone and write it down in your <a href="https://www.goodnightjournal.com/journal/why-write-journal" alt="online journal">online journal</a>. Similarly, the online journal helps you to write down the memories before it gets too late.</p>
+<p>If you are travelling somewhere or walking on the footpath, you see an interesting or an unusual scene, you can turn on your smart phone and write it down in your <a href="https://www.goodnightjournal.com/online-journal/why-write-journal" alt="online journal">online journal</a>. Similarly, the online journal helps you to write down the memories before it gets too late.</p>
 
 <h3>Is an online journal is available at offline mode for read-only purposes?</h3>
 <p>Definitely, an online journal is available for re-read purpose if you don’t have internet connections to save new thoughts or memories. You can use it in offline mode.</p>

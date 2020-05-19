@@ -28,7 +28,7 @@ We are only humans, and we do forget things, and the same thing goes with a rece
 
 <h3>3. Every health-related data in one place</h3>
 <p>
-You don’t want to waste money on a health supplement, which you might have tried, but didn’t work, and you surely don’t want to spend a single penny buying that. Now, imagine, if you would have written the name of that supplement never to buy it mistakenly ever again? Things happen, but that doesn’t mean you need to repeat the same mistake. With a <a href="https://www.goodnightjournal.com/diary/health-diary" alt="Health diary">health diary</a>, you will have all the information concerning your health in one single place.
+You don’t want to waste money on a health supplement, which you might have tried, but didn’t work, and you surely don’t want to spend a single penny buying that. Now, imagine, if you would have written the name of that supplement never to buy it mistakenly ever again? Things happen, but that doesn’t mean you need to repeat the same mistake. With a <a href="https://www.goodnightjournal.com/online-diary/health-diary" alt="Health diary">health diary</a>, you will have all the information concerning your health in one single place.
 </p>
 
 <h3>4. Keep note of patterns</h3>

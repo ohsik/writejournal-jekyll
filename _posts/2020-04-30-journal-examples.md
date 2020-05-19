@@ -8,7 +8,7 @@ comments: true
 
 ![Journal Examples](/img/post/journal-example.jpg)
 
-<p>Keeping a habit doesn’t only help you to express yourself better, but it also helps you to become a better and organized person. People keep different types of journals for different things. Some may want it to note down their day-to-day activities, while others may need it to make notes of their pregnancy journey, food eating habits, and more. Let’s check out and get to know about <a href="https://www.goodnightjournal.com/journal/journal-examples" alt="Journal Example">seven common journals</a> that people go for.</p>
+<p>Keeping a habit doesn’t only help you to express yourself better, but it also helps you to become a better and organized person. People keep different types of journals for different things. Some may want it to note down their day-to-day activities, while others may need it to make notes of their pregnancy journey, food eating habits, and more. Let’s check out and get to know about <a href="https://www.goodnightjournal.com/online-journal/journal-examples" alt="Journal Example">seven common journals</a> that people go for.</p>
 
 <h3>Secret diary:</h3>
 <p>Almost everyone has a secret diary. This is the diary that keeps your secrets safe. You can use it to write down about a secret passion that you wish to follow, a dream that you have never talked to anyone about yet. Secret diaries are the best way to let out your emotions about something that you have wanted to express, but not with a person.</p>

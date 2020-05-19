@@ -22,6 +22,6 @@ Yes, you can save them on your mobile phone, or parents can set a reminder on th
 <p>School diaries, that’s why become your best friend. You can go through the diary, take a look at all the critical things that need to be done on priority.</p>
 
 <h3>3. Makes you a better person</h3>
-<p>The last reason why diaries are so important is that it helps you become organized, plan for your day, allows you to prioritize the important things, and accordingly work for your schoolwork. All these things, in total, finally make you a better person. Once you get hold of the benefits of a <a href="https://www.goodnightjournal.com/diary/school-diary" alt="School diary">school diary</a>, you will start using it more and more.</p>
+<p>The last reason why diaries are so important is that it helps you become organized, plan for your day, allows you to prioritize the important things, and accordingly work for your schoolwork. All these things, in total, finally make you a better person. Once you get hold of the benefits of a <a href="https://www.goodnightjournal.com/online-diary/school-diary" alt="School diary">school diary</a>, you will start using it more and more.</p>
 
 <p>Remember, school is where you get to gain knowledge, and your diary is here to help. It will make you more disciplined, more sincere. A school diary that’s why becomes the best asset.</p>

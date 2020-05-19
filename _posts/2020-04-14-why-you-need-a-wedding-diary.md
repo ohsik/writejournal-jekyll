@@ -24,4 +24,4 @@ Once the wedding is complete, you will laugh about the fear that you had just a 
 <h3>4. Take care of the follow-up details</h3>
 You remember liking a florist on Pinterest. In fact, you pinned a lot of them as your favourite, and you have sent quite a few emails too; however, because you became so busy in between, you didn’t even realize that you forgot to follow up with them. 
 This is why wedding diary becomes so useful. Now, you have something that will remind you of everything that you have done so far, and that needs to be done. Mobile reminders are there, but the saddest part is, when you are busy, you miss the remainder. But the wedding diary will always have your notes intact. 
-You might regret choosing a florist, a wedding planner, or a venue, but you will never regret <a href="https://www.goodnightjournal.com/diary/wedding-diary" target="_blank">keeping a wedding diary</a>.
+You might regret choosing a florist, a wedding planner, or a venue, but you will never regret <a href="https://www.goodnightjournal.com/online-diary/wedding-diary" target="_blank">keeping a wedding diary</a>.

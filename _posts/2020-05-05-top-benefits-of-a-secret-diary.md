@@ -13,7 +13,7 @@ comments: true
 <p>If you are still thinking about how beneficial your secret diary will be, let us share some benefits that will clear your doubts.</p>
 
 <h2>1. Your diary will help you to keep your thoughts organized.</h2>
-<p>You can use your secret diary to channel and organize your thoughts. Maybe you have a hidden passion that you have never talked about or a confession that you are too shy to share, why not expressing them to your <a href="https://www.goodnightjournal.com/diary/secret-diary" alt="Secret Diary">secret diary</a>. Go through what you have written; see if something can be done about it. Learn from your own words.</p> 
+<p>You can use your secret diary to channel and organize your thoughts. Maybe you have a hidden passion that you have never talked about or a confession that you are too shy to share, why not expressing them to your <a href="https://www.goodnightjournal.com/online-diary/secret-diary" alt="Secret Diary">secret diary</a>. Go through what you have written; see if something can be done about it. Learn from your own words.</p> 
 
 <h3>2. Use it to improve your writing</h3>
 <p>Writers and journalists often keep a diary, where they practice to enhance their writing skills. If you are also a passionate writer but would like to initially write to yourself only, make use of your diary. You may not be the perfect writer, but don’t forget, “practice makes a man perfect.” The more you will practice, the better as a writer you will become.</p>

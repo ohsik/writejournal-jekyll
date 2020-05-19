@@ -27,4 +27,4 @@ comments: true
 
 <p>Through Bible journaling, you get to be close to God; you get to share your feelings and gratitude towards him, you get to spend more time with him. This is why Bible journal is needed. You can use the space to write down some notes that God is trying to convey. You can even use a marker to highlight some verses that have changed your life.</p>
 
-<p><a href="https://www.goodnightjournal.com/journal/bible-journal" alt="Bible Journal">Bible journaling</a> is your personal time when you try to connect with Him, make use of this time, and be the person that God wants you to be.</p>
+<p><a href="https://www.goodnightjournal.com/online-journal/bible-journal" alt="Bible Journal">Bible journaling</a> is your personal time when you try to connect with Him, make use of this time, and be the person that God wants you to be.</p>
