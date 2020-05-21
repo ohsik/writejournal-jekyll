@@ -808,3 +808,7 @@ pre {
 .footer-links li a{
   font-size: 14px;
 }
+
+ol li{
+  margin: 16px 0;
+}
