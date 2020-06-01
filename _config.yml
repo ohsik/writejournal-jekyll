@@ -27,7 +27,7 @@ navbar-links:
   About: "about"
   Online Journal: "/2020-04-03-what-to-write-for-your-personal-journal/"
   Online Diary: "/2020-04-10-why-write-diary/"
-  Contact: "mailto:we@writejournal.com"
+  Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
