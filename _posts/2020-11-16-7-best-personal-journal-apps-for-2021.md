@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Best Personal Journal Apps of 2021
-subtitle: Best diary app 2021
+title: 7 Best Personal Journal Apps for 2021
+subtitle: 7 Best diary apps for 2021
 tags: [writing, journal, diary, personal journal, journaling, journaling community, selflove, mental health, online journal, writing community]
 comments: true
 ---
