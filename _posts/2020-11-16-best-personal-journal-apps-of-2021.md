@@ -10,7 +10,9 @@ Writing your thoughts on a bit of paper has been confirmed to make clear the cap
 The coronavirus quarantine affords a super possibility with a purpose to choose up a precious dependancy like journaling. It can show to be extra useful for extroverted humans to begin journaling in this era as this transformation of their way of life can show to be hard and mentally straining. 
 
 <h2>Goodnight Journal</h2>
-Goodnight Journal's simple user interface makes journaling easy and fun. It also works the same on any devices that make the user experience much nicer than any other journal apps. We found that writing umlimited private journals is very appealing and options to become a member for extra features such as community and backing up your journals. Goodnight Journal also offers free mental health features that is very helpful for your well-being that can be used along side of writing journals. The well established community is our absolute favorite. You have to be a member so participate and it is the best place to let things out of your chest and feeling loved from all other journal writers. 
+Goodnight Journal's simple user interface makes journaling easy and fun. It also works the same on any devices that make the user experience much nicer than any other journal apps. We found that writing umlimited private journals is very appealing and options to become a member for extra features such as community and backing up your journals. 
+
+Goodnight Journal also offers free mental health features that is very helpful for your well-being that can be used along side of writing journals. The well established community is our absolute favorite. You have to be a member so participate and it is the best place to let things out of your chest and feeling loved from all other journal writers. 
 
 <a href="https://www.goodnightjournal.com/" target="_blank">Download Goodnight Journal</a>
 
@@ -43,3 +45,5 @@ Not a lot into writing, however need to discover a great brief and clean manner 
 Grid Diary places a completely unique spin on journaling by showing a sequence of various questions in a grid-fashion layout, basically making it less difficult with the intention to hold a diary or journal. It has a integrated library of advised activates so that you in no way get caught with writer's block.
 
 <a href="https://griddiaryapp.com/" target="_blank">Download Grid Diary</a>
+
+We love <a href="https://www.goodnightjournal.com/" target="_blank">Goodnight Journal</a> as it offers most features that make writing journal fun and easy. Also, it is big deal for us to be able to us it on either laptop or smart phones. What's your favorite journal apps for 2021?
