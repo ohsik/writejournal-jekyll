@@ -10,7 +10,17 @@ Writing your thoughts on a bit of paper has been confirmed to make clear the cap
 
 The coronavirus quarantine affords a super possibility with a purpose to choose up a precious dependancy like journaling. It can show to be extra useful for extroverted humans to begin journaling in this era as this transformation of their way of life can show to be hard and mentally straining. 
 
-<h2>Goodnight Journal</h2>
+<ol class="journal-ranking">
+    <li><a href="#goodnightjournal">Goodnight Journal</a></li>
+    <li><a href="#diaro">Diaro</a></li>
+    <li><a href="#journey">Journey</a></li>
+    <li><a href="#dayone">Day One</a></li>
+    <li><a href="#diary">Diary</a></li>
+    <li><a href="#daylio">Daylio</a></li>
+    <li><a href="#griddiary">Grid Diary</a></li>
+</ol>
+
+<h2 id="goodnightjournal">Goodnight Journal</h2>
 
 ![Editors pick best personal journal app](/img/post/best-journal-app-goodnight-journal.png)
 
@@ -20,7 +30,7 @@ Goodnight Journal also offers free mental health features that is very helpful f
 
 <a class="download-btn" href="https://www.goodnightjournal.com/" target="_blank">Download Goodnight Journal</a>
 
-<h2>Diaro</h2>
+<h2 id="diaro">Diaro</h2>
 
 ![diaro journal app](/img/post/diaro-journal-app.png)
 
@@ -28,7 +38,7 @@ Diaro's effective interface is wonderful for journaling fanatics who like to liv
 
 <a class="download-btn" href="https://diaroapp.com/" target="_blank">Download Diaro</a>
 
-<h2>Journey</h2>
+<h2 id="journey">Journey</h2>
 
 ![journey journal app](/img/post/journey-journal-app.png)
 
@@ -36,7 +46,7 @@ Whether you are preserving a dream personal journal, a gratitude personal journa
 
 <a class="download-btn" href="https://journey.cloud/" target="_blank">Download Journey</a>
 
-<h2>Day One</h2>
+<h2 id="dayone">Day One</h2>
 
 ![dayone journal app](/img/post/dayone-journal-app.png)
 
@@ -44,7 +54,7 @@ Similar to Journey, Day One capabilities an interface this is clean, minimum and
 
 <a class="download-btn" href="https://dayoneapp.com/" target="_blank">Download Day One</a>
 
-<h2>Diary</h2>
+<h2 id="diary">Diary</h2>
 
 ![diary journal app](/img/post/diary-journal-app.png)
 
@@ -52,7 +62,7 @@ If you are searching out an app that makes it as quick, easy, and handy as feasi
 
 <a class="download-btn" href="https://www.writediary.com/" target="_blank">Download Diary</a>
 
-<h2>Daylio</h2>
+<h2 id="daylio">Daylio</h2>
 
 ![diaro journal app](/img/post/diaro-journal-app.png)
 
@@ -60,7 +70,7 @@ Not a lot into writing, however need to discover a great brief and clean manner 
 
 <a class="download-btn" href="https://daylio.net/" target="_blank">Download Daylio</a>
 
-<h2>Grid Diary</h2>
+<h2 id="griddiary">Grid Diary</h2>
 
 ![grid diary journal app](/img/post/grid-diary-journal-app.png)
 
@@ -87,5 +97,13 @@ img{
     color: #ff1844;
     display: inline-block;
     margin-bottom: 40px;
+}
+.journal-ranking{
+    background: #f4f4f4;
+    border-radius: 16px;
+    padding: 16px 16px 16px 60px;
+}
+.journal-ranking li{
+    margin: 4px 0 !important;
 }
 </style>
